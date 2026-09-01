@@ -8,8 +8,7 @@ The dashboard provides a clear overview of business performance and helps identi
 
 ### 🖼️ Dashboard Preview
 
-![Sales Performance Dashboard](<img width="1920" height="1020" alt="Screenshot" src="https://github.com/user-attachments/assets/7c8eac02-e6ca-4083-85a5-9efc64f4f885" />)
-
+![Sales Performance Dashboard](Screenshot 2026-09-01 210721.png)
 
 ---
 
