@@ -1,4 +1,4 @@
-# 📊 Sales Performance Dashboard | Power BI
+<img width="1920" height="1020" alt="Screenshot" src="https://github.com/user-attachments/assets/63201df6-179f-4fa2-96c4-e0b210a75895" /># 📊 Sales Performance Dashboard | Power BI
 
 An interactive **Sales Performance Dashboard** built using **Microsoft Power BI** to analyze sales, profit, orders, products, regions, categories, and salesperson performance.
 
@@ -6,10 +6,9 @@ The dashboard provides a clear overview of business performance and helps identi
 
 ---
 
-## 🖼️ Dashboard Preview
+### 🖼️ Dashboard Preview
 
-![Sales Performance Dashboard](<img width="1920" height="1020" alt="Screenshot 2026-09-01 210721" src="https://github.com/user-attachments/assets/b3231de3-7103-4aee-9487-a97727a0b1fa" />
-)
+![Sales Performance Dashboard](Screenshot.png…]())
 
 ---
 
