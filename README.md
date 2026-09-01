@@ -13,7 +13,7 @@ The dashboard provides a clear overview of business performance and helps identi
 
 ---
 
-📌 Project Overview
+**📌 Project Overview**
 
 This project presents an interactive Sales Performance Dashboard developed using Microsoft Power BI.
 
@@ -23,7 +23,7 @@ It helps users understand overall sales performance, profitability, regional per
 
 ---
 
-🛠️ Tools & Technologies
+**🛠️ Tools & Technologies**
 
 - Microsoft Power BI
 - DAX
@@ -34,7 +34,7 @@ It helps users understand overall sales performance, profitability, regional per
 
 ---
 
-📂 Dataset
+**📂 Dataset**
 
 The dataset contains 500 sales transactions for the year 2025.
 
@@ -60,7 +60,7 @@ A separate Date Table is also included for time-based analysis.
 
 ---
 
-📊 Dashboard KPIs
+**📊 Dashboard KPIs**
 
 KPI| Description
 💰 Total Sales| Overall sales revenue
@@ -71,7 +71,7 @@ KPI| Description
 
 ---
 
-📈 Dashboard Features
+**📈 Dashboard Features**
 
 1. Monthly Sales Trend
 
@@ -114,7 +114,7 @@ Selecting a filter dynamically updates the dashboard visuals.
 
 ---
 
-🧮 DAX Measures
+**🧮 DAX Measures**
 
 Total Sales
 
@@ -139,7 +139,7 @@ DIVIDE([Total Profit], [Total Sales], 0)
 
 ---
 
-🔗 Data Model
+**🔗 Data Model**
 
 The project uses a simple data model with:
 
@@ -155,7 +155,7 @@ This relationship enables accurate monthly and date-based analysis.
 
 ---
 
-💡 Key Business Insights
+**💡 Key Business Insights**
 
 The dashboard helps identify:
 
@@ -169,7 +169,7 @@ The dashboard helps identify:
 
 ---
 
-🎯 Project Objective
+**🎯 Project Objective**
 
 The objective of this project is to demonstrate how raw sales data can be transformed into an interactive Business Intelligence dashboard using Power BI.
 
@@ -177,7 +177,7 @@ The dashboard provides a simple and effective way for users to monitor business 
 
 ---
 
-📁 Project Files
+**📁 Project Files**
 
 File| Description
 "Sales_Dashboard.pbix"| Power BI dashboard file
@@ -187,7 +187,7 @@ File| Description
 
 ---
 
-🚀 Skills Demonstrated
+**🚀 Skills Demonstrated**
 
 - Data Cleaning & Preparation
 - Data Modeling
@@ -201,9 +201,9 @@ File| Description
 
 ---
 
-👩‍💻 Project Type
+**👩‍💻 Project Type**
 
-Power BI Portfolio Project
+**Power BI Portfolio Project**
 
 Project: Sales Performance Dashboard
 Tool: Microsoft Power BI
