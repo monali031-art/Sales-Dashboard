@@ -204,7 +204,7 @@ File| Description
 
 **Power BI Portfolio Project**
 
-Project: Sales Performance Dashboard
-Tool: Microsoft Power BI
-Dataset: Excel
-Year: 2025
+* Project: Sales Performance Dashboard
+* Tool: Microsoft Power BI
+* Dataset: Excel
+* Year: 2025
